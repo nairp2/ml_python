@@ -1,0 +1,1 @@
+This is a development of the titanic prediction of passengers that survived or not survived using Machine Learning and integrating the model into django web frameworks and output the fate of the passengers.
